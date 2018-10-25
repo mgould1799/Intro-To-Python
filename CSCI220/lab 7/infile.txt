@@ -1,0 +1,2 @@
+first person 20 30
+second person 10 30

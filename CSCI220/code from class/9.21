@@ -1,0 +1,9 @@
+def walliPi():
+    denom = 1
+    numer= o
+    for i in range(10):
+        denom = denom + i % 2 * 2
+        numer = numer+ (i+1) % 2 *2
+        print(numer, denom)
+
+    

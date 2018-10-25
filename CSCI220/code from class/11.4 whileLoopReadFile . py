@@ -1,0 +1,12 @@
+## datefile.readline() -> one line of the file as a str
+
+def readFile(filename):
+    dateFile=open(filename)
+
+    line= dataFile.read()
+    while line != "":
+        line=dataFile.readline()
+    dataFile.close()
+
+def main():
+    readFile("data.txt")
